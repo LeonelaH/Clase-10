@@ -2,8 +2,8 @@
 
 Mi primer repositorio
 
-I love :cat:,:icecream:,:video_game:
+I like watch videos and movies
 
-I love :books:, :hamburger:
+I love :books:, :hamburger:,:cat:
 
 
