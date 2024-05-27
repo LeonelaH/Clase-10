@@ -2,7 +2,7 @@
 
 Mi primer repositorio
 
-I like watch videos and movies
+I like to watch videos and movies
 
 I love :books:, :hamburger:,:cat:
 
