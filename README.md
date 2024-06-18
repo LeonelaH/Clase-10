@@ -1,4 +1,4 @@
-# hola-Mundo
+# Clase-10
 
 Mi primer repositorio
 
